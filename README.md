@@ -16,10 +16,10 @@ Abaixo estão os links para cada ideia de projeto, divididos em três níveis de
 4. [Calculadora Web](./calculadora-web.md) - Aplicativo simples de calculadora.
 5. [Conversor de Moedas](./conversor-de-moedas.md) - Ferramenta para conversão de moedas em tempo real.
 6. [Galeria de Fotos](./galeria-de-fotos.md) - Exiba e organize fotos em álbuns.
-7. [To-Do List](./todo-list.md) - Lista de tarefas simples com funcionalidades básicas.
-8. [App de Clima](./app-de-clima.md) - Aplicativo para verificar o clima atual com base na localização.
-9. [Encurtador de URL](./encurtador-de-url.md) - Sistema para encurtar URLs longas.
-10. [Aplicativo de Notícias](./aplicativo-de-noticias.md) - Exiba as notícias mais recentes a partir de uma API.
+
+7. [App de Clima](./app-de-clima.md) - Aplicativo para verificar o clima atual com base na localização.
+8. [Encurtador de URL](./encurtador-de-url.md) - Sistema para encurtar URLs longas.
+9. [Aplicativo de Notícias](./aplicativo-de-noticias.md) - Exiba as notícias mais recentes a partir de uma API.
 
 ### Projetos de Nível Médio
 
