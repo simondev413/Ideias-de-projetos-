@@ -11,7 +11,7 @@ Abaixo estão os links para cada ideia de projeto, divididos em três níveis de
 ### Projetos Simples
 
 1. [E-commerce Simples](./ecommerce-simples.md) - Plataforma básica de comércio eletrônico.
-2. [Aplicativo de Gerenciamento de Tarefas](./gerenciamento-de-tarefas.md) - Organize e monitore suas tarefas diárias.
+2. [Aplicativo de Gerenciamento de Tarefas](./to-do-list-com-autenticacao.md) - Organize e monitore suas tarefas diárias.
 3. [Blog Simples](./blog-simples.md) - Sistema básico de blog com postagens e comentários.
 4. [Calculadora Web](./calculadora-web.md) - Aplicativo simples de calculadora.
 5. [Conversor de Moedas](./conversor-de-moedas.md) - Ferramenta para conversão de moedas em tempo real.
